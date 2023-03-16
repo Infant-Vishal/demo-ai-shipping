@@ -1,0 +1,27 @@
+.Card {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  padding: 10%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 100vh;
+}
+
+.paper {
+  position: relative;
+  text-align: center;
+}
+
+.title {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.TextField {
+  text-align: left;
+}
+
+.text {
+  font-family: "Times New Roman", Times, serif;
+}

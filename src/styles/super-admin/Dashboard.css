@@ -1,0 +1,26 @@
+.mainchartsdiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px;
+}
+.chartdiv{
+    width: 600;
+    margin: 6px 20px;
+}
+.notificationList{
+    margin: 0px 15px 10px 15px;
+    overflow: auto;
+} 
+.notificationListTitle{
+    color: #41880b;
+    padding-left: 15px;
+}
+.react-datepicker-wrapper,
+.react-datepicker__input-container,
+.react-datepicker__input-container input {
+    padding: 11px;
+    width: 100px;
+    border-radius: 10px;
+    color: #d32f30;
+}

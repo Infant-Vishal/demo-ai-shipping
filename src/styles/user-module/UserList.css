@@ -1,0 +1,25 @@
+.user-list-header {
+  margin-bottom: 24px !important;
+  flex-direction: row;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.user-list-heading{
+  margin: 0px !important;
+}
+.user-search-bar{
+    margin: 10px 7px 5px 0px !important;
+    width: 70% !important;
+    height: fit-content;
+}
+.user-add-button{
+    height: fit-content;
+    margin: auto 0px !important;
+}
+.user-status{
+    width: 8% !important;
+    margin:  auto 0px !important;
+}

@@ -1,0 +1,23 @@
+.order-popup-title {
+  text-align: center;
+  margin: 23px 23px 0px !important;
+}
+
+.order-popup-textfield {
+  margin: 16px !important;
+  width: 400px;
+}
+
+.client-shipper-details-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  margin: 0; 
+}

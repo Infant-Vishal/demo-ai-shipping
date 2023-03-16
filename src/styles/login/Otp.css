@@ -1,0 +1,23 @@
+.Container {
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+  align-items: space-around;
+  justify-content: center;
+}
+
+.userInput {
+  display: flex;
+  justify-content: center;
+}
+
+input{
+  margin: 10px;
+  height: 35px;
+  width: 35px;
+  border: none;
+  border-radius: 5px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1rem;
+  background-color:whitesmoke;
+}
